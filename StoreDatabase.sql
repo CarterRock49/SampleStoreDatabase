@@ -1,8 +1,8 @@
 Use master;
 go
-CREATE DATABASE GroupFive; --Change the database name if needed.
+CREATE DATABASE Store; --Change the database name if needed.
 GO
-USE GroupFive
+USE Store
 
 --Creating the Person table
 create table Person(
